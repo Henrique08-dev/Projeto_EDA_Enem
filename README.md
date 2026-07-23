@@ -4,7 +4,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -140,7 +139,7 @@ enem-eda-2019/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/enem-eda-2019.git
+git clone [https://github.com/Henrique08-dev/Projeto_EDA_Enem.git]
 cd enem-eda-2019
 ```
 
