@@ -119,7 +119,7 @@ enem-eda-2019/
 │
 ├── notebooks/
 │   ├── Projeto_Enem_Base_Completa.ipynb   # Análise com 5M+ registros
-│   └── Projeto_Enem_Amostra_10pct.ipynb   # Análise com amostra de 10%
+│   └── Projeto_Enem_Amostra10.ipynb   # Análise com amostra de 10%
 │
 ├── data/
 │   └── (os dados não estão incluídos no repositório devido ao tamanho)
